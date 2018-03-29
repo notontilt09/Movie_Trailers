@@ -7,7 +7,7 @@ played when clicking any of the titles.
 ## Setup
 
 * Download or clone the repository from https://github.com/notontilt09/Movie_Trailers
-* Run the entertainment_center.py programa
+* Run the entertainment_center.py program
 
 
 
